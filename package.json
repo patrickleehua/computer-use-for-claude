@@ -11,7 +11,8 @@
     "README.md",
     "install.ps1",
     "start.ps1",
-    "docs/verification.md"
+    "docs/verification.md",
+    "docs/assets/"
   ],
   "description": "Claude Code bridge to the locally installed original OpenAI computer and browser runtime on Windows",
   "engines": {

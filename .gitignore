@@ -1,0 +1,12 @@
+node_modules/
+.local/
+artifacts/
+dist/
+coverage/
+*.log
+*.tgz
+*.tmp
+.mcp.json
+.claude/settings.local.json
+.DS_Store
+Thumbs.db
